@@ -1,6 +1,6 @@
 # Hi 👋 I'm Deeksha
 
-🎓 **BCA Student** | 💻 **Aspiring Full Stack Developer**
+🎓 **BCA Student** | 💻 **Aspiring Frontend Developer**
 
 I am passionate about building user-friendly and scalable web applications.  
 Currently learning modern web technologies and improving my problem-solving skills.
@@ -9,16 +9,14 @@ Currently learning modern web technologies and improving my problem-solving skil
 
 ## 🚀 Skills & Technologies
 - **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express
 - **Database:** MongoDB
 - **Tools:** Git, GitHub, VS Code
 
 ---
 
 ## 📌 Currently Learning
-- Full Stack Web Development (MERN)
+- Frontend Development 
 - Data Structures & Algorithms
-- Backend APIs & Authentication
 
 ---
 
@@ -32,7 +30,7 @@ _(I am actively working on projects and will update this section soon.)_
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: [Deeksha Nisha](https://www.linkedin.com/in/deeksha-nishad)
+- 💼 LinkedIn: [Deeksha Nisha](www.linkedin.com/in/deeksha-538919342)
 - 📧 Email: d65343904@gmail.com
 
 ---
