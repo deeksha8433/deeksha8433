@@ -30,7 +30,7 @@ _(I am actively working on projects and will update this section soon.)_
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: [Deeksha Nisha](www.linkedin.com/in/deeksha-538919342)
+- 💼 LinkedIn: www.linkedin.com/in/deeksha-538919342
 - 📧 Email: d65343904@gmail.com
 
 ---
