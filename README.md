@@ -22,8 +22,9 @@ Currently learning modern web technologies and improving my problem-solving skil
 
 ## 📂 Projects (Coming Soon)
 - 🔹 Portfolio Website  
-- 🔹 CRUD Web App  
-- 🔹 Authentication System  
+- 🔹 Movie Ticket Booking  
+- 🔹 Wheather forcasting
+- 🔹 Dashboard
 
 _(I am actively working on projects and will update this section soon.)_
 
